@@ -1,0 +1,15 @@
+# Database files
+flashcards.db
+*.db
+
+# Streamlit
+.streamlit/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment
+.env
+venv/
